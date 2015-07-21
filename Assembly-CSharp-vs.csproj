@@ -46,11 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\IntoTheTube.cs" />
-     <Compile Include="Assets\RaiseFlag.cs" />
-     <Compile Include="Assets\StartGame.cs" />
-     <Compile Include="Assets\TriggerCamera.cs" />
-     <Compile Include="Assets\TriggerFlag.cs" />
+     <Compile Include="Assets\script\IntoTheTube.cs" />
+     <Compile Include="Assets\script\RaiseFlag.cs" />
+     <Compile Include="Assets\script\StartGame.cs" />
+     <Compile Include="Assets\script\TriggerCamera.cs" />
+     <Compile Include="Assets\script\TriggerFlag.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity Uptodate/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
